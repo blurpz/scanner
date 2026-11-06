@@ -64,7 +64,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF9D&background=0D1117&center=false&vCenter=false&multiline=true&width=700&height=220&lines=%24+python3+scan.py+file.txt+-o+results;%5B%E2%9C%93%5D+Loading+file.txt...;%5B%E2%9C%93%5D+Scanning+contents...;%5B%E2%9C%93%5D+Analyzing+patterns...;%5B%E2%9C%93%5D+Report+saved+to+results;Done+in+0.42s+%E2%9A%A1" alt="Terminal Demo" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF9D&background=0D1117&center=false&vCenter=false&multiline=true&width=700&height=260&lines=%24+python3+scan.py+addu.edu.ph;%5B*%5D+Scanning+addu.edu.ph+...;++++%5Bcrt.sh%5D+154+found;++++%5Bhackertarget%5D+0+found;++++%5Brapiddns%5D+104+found;++++%5B!%5D+failed+after+3+attempts%3A+HTTP+Error+429%3A+Too+Many+Requests;++++%5Botx%5D+0+found" alt="Terminal Demo" />
 
 </div>
 
