@@ -78,4 +78,4 @@
 # Clone the repo
 git clone https://github.com/blurpz/scanner
 cd scanner
-python3 scan.py
+python3 scan.py file.txt -o results
